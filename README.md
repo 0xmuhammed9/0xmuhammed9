@@ -9,7 +9,7 @@
     </summary>
   </ul>
 </div>
- <h3 align="left">I'm a passionate Backend Developer focused on building secure, scalable, and well-structured applications. My main stack includes C#, .NET, ASP.NET, SQL, Node.js, and MongoDB, and I enjoy turning real problems into clean backend architectures.</h3>
+ <h3 align="left">I'm a passionate Backend Developer focused on building secure, scalable, and well-structured applications.</h3>
 
 
 
